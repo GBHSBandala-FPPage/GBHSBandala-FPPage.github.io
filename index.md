@@ -35,3 +35,37 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<!DOCTYPE html>
+<html>
+<head>
+<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2645886905121453"
+     crossorigin="anonymous"></script>
+<title>Page Title</title>
+<style>
+/* CSS styles */
+h1 {
+font-family: 'Raleway', sans-serif;
+font-size:50px;
+color: #CE5937;
+line-height: 50px;
+text-align: top;
+}
+h2 {
+font-family: Impact, sans-serif;
+font-size:25px;
+color: black;
+text-align: top;
+}  
+</style>
+</head>
+<body>
+
+<div>
+
+<h1 id="welcome">WelCome</h1>
+<h1>Govt Boys High School Bandala</h1>
+<h2>Tehcil Samahni District Bhimber AK</h2>
+</div>
+  
+</body>
+</html>
