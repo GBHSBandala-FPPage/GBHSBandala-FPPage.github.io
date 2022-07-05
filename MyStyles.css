@@ -1,9 +1,11 @@
-<style>
+
 /* CSS styles */
 #grad1 {
   height: auto;
   background-image: linear-gradient(to left, rgba(0,0,139,0), rgba(0,0,139,1));
 }
+
+
 h1 {
 font-family: Raleway, sans-serif;
 font-size:25px;
@@ -11,10 +13,11 @@ color: /*#CE5937*/ white;
 line-height: normal;
 text-align: top;
 }
+
+
 h2 {
 font-family: Raleway, sans-serif;
 font-size:25px;
 color: white;
 text-align: top;
 }  
-</style>
