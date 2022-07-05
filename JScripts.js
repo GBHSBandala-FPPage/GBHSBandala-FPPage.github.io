@@ -1,5 +1,5 @@
 <!-- Facebook Default Java Script Codes-->
-<script>
+
   window.fbAsyncInit = function() {
     FB.init({
       appId      : '394510922632347',
@@ -16,9 +16,3 @@
      js.src = "https://connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
-</script>
-
-<!-- Google Adsense Code For Sites  -->
-  <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2645886905121453" 
-  crossorigin="anonymous">
-  </script>
