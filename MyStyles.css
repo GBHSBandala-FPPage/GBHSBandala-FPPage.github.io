@@ -8,11 +8,11 @@ h1 {
 font-family: 'Raleway', sans-serif;
 font-size:25px;
 color: /*#CE5937*/ white;
-line-height: auto;
+line-height: normal;
 text-align: top;
 }
 h2 {
-font-family: Impact, sans-serif;
+font-family: 'Raleway', sans-serif;
 font-size:25px;
 color: white;
 text-align: top;
