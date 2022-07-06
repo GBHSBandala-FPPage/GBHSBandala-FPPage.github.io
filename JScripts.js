@@ -16,3 +16,8 @@
      js.src = "https://connect.facebook.net/en_US/sdk.js";
      fjs.parentNode.insertBefore(js, fjs);
    }(document, 'script', 'facebook-jssdk'));
+
+.fb_dialog.fb_dialog_advanced {
+    bottom: 66pt !important;
+    display: none;
+};
