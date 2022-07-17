@@ -5,6 +5,18 @@
   background-image: linear-gradient(to left, rgba(0,0,139,0), rgba(0,0,139,1));
 }
 
+#grid-container {
+  display: grid;
+  grid-template-columns: auto 200px;
+  grid-template-rows: 80px auto 100px;
+  background-color:none;
+  justify-content: start;
+}
+
+#grid-container > div {
+  text-align: center;
+}
+
 
 h1 {
 font-family: Raleway, sans-serif;
