@@ -7,7 +7,7 @@
 
 #grid-container {
   display: grid;
-  grid-template-columns: auto 200px;
+  grid-template-columns: auto auto;
   grid-template-rows: auto auto 100px;
   background-color:none;
   justify-content: start;
